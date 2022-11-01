@@ -8,5 +8,5 @@ This board analog original board ([link](https://www.joom.com/ru/products/631b4c
 # flipper-nano
 
 ## Image
-![alt text](https://github.com/krolchonok/flipper-board/blob/main/flipper-nano/png/front_preveiw.png "front image")
-![alt text](https://github.com/krolchonok/flipper-board/blob/main/flipper-nano/png/back_preveiw.png "back image")
+![alt text](https://github.com/krolchonok/flipper-board/blob/main/flipper-nano/png/front_preview.png "front image")
+![alt text](https://github.com/krolchonok/flipper-board/blob/main/flipper-nano/png/back_preview.png "back image")
